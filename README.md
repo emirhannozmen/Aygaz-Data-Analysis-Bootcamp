@@ -1,4 +1,4 @@
-# Araç Kazaları Keşifsel Veri Analizi
+# Araç Kazaları Veri Analizi
 
 Bu proje, Kaggle'dan alınan "Car Accidents in Brazil 2017-2023" veri setini kullanarak, Brezilya'da 2017-2023 yılları arasında meydana gelen trafik kazalarının analizini yapmak amacıyla hazırlanmıştır.
 
